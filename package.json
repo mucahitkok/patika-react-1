@@ -1,0 +1,23 @@
+{
+  "name": "patika-react-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "patika": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mucahitkok/patika-react-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mucahitkok/patika-react-1/issues"
+  },
+  "homepage": "https://github.com/mucahitkok/patika-react-1#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
